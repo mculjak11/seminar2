@@ -1,6 +1,6 @@
 manifest:
   self:
-    path: 100242-fw-zephyr-bl-dev-kit
+    path: seminar_zephyr
 
   remotes:
     - name: zephyrproject-rtos

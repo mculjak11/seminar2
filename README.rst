@@ -9,7 +9,7 @@ To clone the repository run:
 
 .. code-block:: bash
 
-    west init -m https://github.com/mculjak11/seminar2.git seminar_mculjak
-    cd seminar_mculjak
+    west init -m https://github.com/mculjak11/seminar2.git seminar2_mculjak
+    cd seminar2_mculjak
     west update
 
