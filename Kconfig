@@ -3,9 +3,8 @@
 # module options by going to Zephyr -> Modules in Kconfig.
 
 menu "Sensor"
-    choice SENSOR
+    config SENSOR
         bool "Active SHT3x sensor"
         default y
-    endchoice
 endmenu
     
