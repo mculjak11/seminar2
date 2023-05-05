@@ -1,0 +1,16 @@
+# editors
+*.swp
+*~
+
+# vscode
+.cortex-debug.registers.state.json
+
+# python
+.venv
+__pycache__
+
+# build
+build/
+_build
+
+.vscode/

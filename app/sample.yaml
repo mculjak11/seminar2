@@ -1,0 +1,5 @@
+sample:
+  name: Zephyr Seminar Example
+common:
+  platform_allow: esp32 stm32f4 nrf51
+  tags: sensors
