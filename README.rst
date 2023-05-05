@@ -1,4 +1,5 @@
 This is a README for Seminar 2 course held on Faculty of Electronics and Computing, Zagreb.
+
 Author: Marko Čuljak
 
 Cloning repository
